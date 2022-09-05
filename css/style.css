@@ -126,5 +126,5 @@ footer{grid-area: footer;}
 @media only screen and (max-width: 768px){
     .gridGaleria{
         display: flex;
-        flex-direction: column;
+        flex-direction: column;}
 }
